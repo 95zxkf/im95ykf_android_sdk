@@ -43,8 +43,19 @@
   <component name="ProjectType">
     <option name="id" value="Android" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration>C:\Users\sky\AppData\Roaming\Subversion</configuration>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="svn://git.oschina.net/hl95ykf/im/androidhl95/im95ykf_android_sdk_demo" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="mySupportsUserInfoFilter" value="true" />
   </component>
   <component name="masterDetails">
     <states>

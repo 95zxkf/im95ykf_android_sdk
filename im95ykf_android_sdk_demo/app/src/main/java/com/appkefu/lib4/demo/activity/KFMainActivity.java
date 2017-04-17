@@ -381,7 +381,8 @@ public class KFMainActivity extends Activity {
                 Constants.WORK_GROUP_ID,
                 //3. 附加信息，在成功对接客服之后，会自动将此信息发送给客服;
                 //   如果不想发送此信息，可以将此信息设置为""或者null
-                "商品简介商品简介商品简介商品简介商品简介 100元  <img src=\"http://im.95ykf.com/AppKeFu/images/logo.png\">",
+                //null,
+                "九五在线客服  200000元  <img src=\"http://im.95ykf.com/AppKeFu/images/logo.png\">",
                 //4. 是否显示自定义菜单,如果设置为显示,请务必首先在管理后台设置自定义菜单,
                 //	请务必至少分配三个且只分配三个自定义菜单,多于三个的暂时将不予显示
                 //	显示:true, 不显示:false
@@ -399,11 +400,11 @@ public class KFMainActivity extends Activity {
                 //10.商品详情图片
                 "http://im.95ykf.com/AppKeFu/images/logo.png",
                 //11.商品详情简介
-                "商品简介商品简介商品简介商品简介商品简介",
+                "九五在线客服",
                 //12.商品详情价格
-                "100元",
+                "200000元",
                 //13.商品网址链接
-                "http://appkefu.com",
+                "http://im.95ykf.com",
                 //14.点击商品详情布局回调参数
                 "goodsCallbackId",
                 //15.退出对话的时候是否强制评价，强制：true，不评价：false
