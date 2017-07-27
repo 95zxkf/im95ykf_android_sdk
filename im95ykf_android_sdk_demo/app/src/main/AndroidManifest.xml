@@ -52,7 +52,7 @@
         <!-- 请到 http://im.95ykf.com 申请appkey -->
         <meta-data
             android:name="com.appkefu.lib.appkey"
-            android:value="a857bc7ead2ba559aa13dd1d56dd2d95" />
+            android:value="1059afdac038acd37e75f19334d9d166" />
 
         <!-- 完善兼容android N, 24相机访问权限-->
         <!-- https://inthecheesefactory.com/blog/how-to-share-access-to-file-with-fileprovider-on-android-nougat/en -->

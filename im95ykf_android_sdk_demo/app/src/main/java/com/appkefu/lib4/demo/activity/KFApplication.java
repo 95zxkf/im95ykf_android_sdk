@@ -11,7 +11,6 @@ public class KFApplication extends Application {
         super.onCreate();
         //开启调试模式, 正式上线应关闭
         KFAPIs.DEBUG = true;
-        KFAPIs.DEBUG_INFO=true;
     }
 
 
